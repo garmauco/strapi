@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "personas",
+  "info": {
+    "singularName": "persona",
+    "pluralName": "personas",
+    "displayName": "Personas"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Nombres": {
+      "type": "string"
+    },
+    "Apellidos": {
+      "type": "string"
+    }
+  }
+}
